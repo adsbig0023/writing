@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Handwriting Work From Home Jobs</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f4f7fb;
+      color: #222;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 18px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 430px;
+      background: #ffffff;
+      border-radius: 18px;
+      padding: 28px 20px 22px;
+      text-align: center;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.10);
+    }
+
+    .icon {
+      width: 75px;
+      height: 75px;
+      margin: 0 auto 15px;
+      border-radius: 50%;
+      background: #e8f1ff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 38px;
+    }
+
+    h1 {
+      font-size: 27px;
+      line-height: 1.2;
+      margin-bottom: 12px;
+      color: #172b4d;
+    }
+
+    .subtitle {
+      font-size: 16px;
+      line-height: 1.5;
+      color: #666;
+      margin-bottom: 22px;
+    }
+
+    .info {
+      background: #f7f9fc;
+      border-radius: 13px;
+      padding: 16px;
+      margin-bottom: 20px;
+      text-align: left;
+    }
+
+    .info p {
+      font-size: 15px;
+      line-height: 1.7;
+      margin-bottom: 5px;
+    }
+
+    .info p:last-child {
+      margin-bottom: 0;
+    }
+
+    .telegram-btn {
+      display: block;
+      width: 100%;
+      background: #229ed9;
+      color: #fff;
+      text-decoration: none;
+      padding: 15px 20px;
+      border-radius: 10px;
+      font-size: 18px;
+      font-weight: bold;
+      margin-top: 8px;
+      box-shadow: 0 5px 15px rgba(34,158,217,0.25);
+    }
+
+    .telegram-btn:hover {
+      opacity: 0.9;
+    }
+
+    .agency {
+      margin-top: 22px;
+      padding-top: 15px;
+      border-top: 1px solid #eee;
+      font-size: 13px;
+      color: #777;
+    }
+
+    .agency a {
+      display: inline-block;
+      margin-top: 5px;
+      color: #229ed9;
+      font-size: 15px;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    .notice {
+      font-size: 11px;
+      color: #999;
+      margin-top: 14px;
+      line-height: 1.4;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <div class="icon">✍️</div>
+
+    <h1>Handwriting Work From Home Jobs</h1>
+
+    <p class="subtitle">
+      Work from home handwriting opportunities and job updates.
+      Get the latest information directly on Telegram.
+    </p>
+
+    <div class="info">
+      <p>✍️ Handwriting Work Opportunities</p>
+      <p>🏠 Work From Home</p>
+      <p>📱 Regular Job Updates</p>
+      <p>📢 Join Telegram For Details</p>
+    </div>
+
+    <!-- MAIN TELEGRAM LINK -->
+    <a class="telegram-btn"
+       href="https://t.me/YOUR_TELEGRAM_LINK"
+       target="_blank">
+      ✈️ Join Telegram Now
+    </a>
+
+    <div class="agency">
+      Ad Managed By
+      <br>
+
+      <!-- AGENCY TELEGRAM LINK -->
+      <a href="https://t.me/YOUR_AGENCY_LINK"
+         target="_blank">
+        Adsbig Agency
+      </a>
+    </div>
+
+    <p class="notice">
+      Please verify job details and terms before making any payment
+      or sharing personal information.
+    </p>
+
+  </div>
+
+</body>
+</html>
